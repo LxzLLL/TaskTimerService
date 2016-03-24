@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<UrlSetting>
+  <UrlConnection>http://yc.ijunda.me/System/WebService/BuildingSiteSummaryService.asmx</UrlConnection>
+</UrlSetting>

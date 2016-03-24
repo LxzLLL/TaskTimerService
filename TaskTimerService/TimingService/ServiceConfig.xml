@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Service>
+  <TimingService>
+    <TSExtensionsPath>Extensions</TSExtensionsPath>
+    <TSExtensionsItems>
+      <TSExtensionsItem>
+        <!--TSExtensionsItemName为dll中PluginName-->
+        <TSExtensionsItemName>XLPluginSummary</TSExtensionsItemName>
+        <TSExtensionsItemCron>0 0 8,12,17 * * ?</TSExtensionsItemCron>
+        <TSExtensionsItemSendType>0</TSExtensionsItemSendType>
+      </TSExtensionsItem>
+    </TSExtensionsItems>
+  </TimingService>
+</Service>
